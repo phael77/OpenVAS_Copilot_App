@@ -11,5 +11,5 @@ tiktoken
 python-dotenv
 openai
 flask
-
+sentence-transformers
 
