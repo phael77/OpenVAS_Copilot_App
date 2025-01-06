@@ -1,0 +1,15 @@
+pandas
+numpy
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-chroma
+pdfplumber
+qdrant-client
+tiktoken
+python-dotenv
+openai
+flask
+
+
